@@ -1,0 +1,11 @@
+{
+  "name": "library-data",
+  "version": "1.0.0",
+  "description": "basic library data app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Adams",
+  "license": "ISC"
+}
